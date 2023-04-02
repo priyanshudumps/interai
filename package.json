@@ -5,8 +5,9 @@
   "type": "module",
   "main": "server.mjs",
   "scripts": {
-    
+    "build": "npm i",
     "start": "node server.mjs"
+    
   },
   "keywords": [],
   "author": "",
